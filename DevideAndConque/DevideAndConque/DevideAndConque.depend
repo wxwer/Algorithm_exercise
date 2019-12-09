@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572339400 source:d:\数据\文件\web\cppprojects\algorithm\devideandconque\devideandconque\main.cpp
+	<iostream>
+	"FuncDefine.h"
+
+1572339877 d:\数据\文件\web\cppprojects\algorithm\devideandconque\devideandconque\funcdefine.h
+
+1572339877 source:d:\数据\文件\web\cppprojects\algorithm\devideandconque\devideandconque\funcimplemet1.cpp
+	<iostream>
+	"FuncDefine.h"
+	<math.h>
+

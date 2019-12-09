@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569225288 source:d:\数据\文件\web\cppprojects\algorithm\devideandconque\wordanalyze\main.cpp
+	<iostream>
+	"WordAnalysis.h"
+
+1569224590 d:\数据\文件\web\cppprojects\algorithm\devideandconque\wordanalyze\wordanalysis.h
+	<string.h>
+
+1569225533 source:d:\数据\文件\web\cppprojects\algorithm\devideandconque\wordanalyze\wordanalysis.cpp
+	<string.h>
+	<stdio.h>
+	"WordAnalysis.h"
+

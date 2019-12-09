@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574084282 source:d:\数据\文件\web\cppprojects\algorithm\dynamicprogramming\main.cpp
+	<iostream>
+	"Functions1.h"
+
+1574084136 d:\数据\文件\web\cppprojects\algorithm\dynamicprogramming\functions1.h
+
+1573979391 source:d:\数据\文件\web\cppprojects\algorithm\dynamicprogramming\functions1.cpp
+	"Functions1.h"
+	<stdio.h>
+	<assert.h>
+
+1574086205 source:d:\数据\文件\web\cppprojects\algorithm\dynamicprogramming\functions2.cpp
+	"Functions1.h"
+	<stdio.h>
+
